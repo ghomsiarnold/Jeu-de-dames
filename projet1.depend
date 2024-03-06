@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647515577 source:c:\users\admin\documents\nouveau dossier\projet1\main.c
+	<SDL2/SDL.h>
+	<sdl2/sdl_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+
